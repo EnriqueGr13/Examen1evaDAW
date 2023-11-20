@@ -33,4 +33,5 @@ touch enriquegallenroda.txt
 whoami > enriquegallenroda.txt
 echo "Usuarios conectados por SSH: $(who)" >> enriquegallenroda.txt
 ```
+
 [Enlace](https://github.com/EnriqueGr13/Examen1evaDAW/tree/main/Capturas/Capturas%20Ejercicio2) a la carpeta del repositorio de GitHub donde se encuentran todas las capturas.
